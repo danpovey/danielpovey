@@ -36,6 +36,13 @@ padding-top:6px;
 background-color: #d3d3d3;
 height:2em;
 }
+.myTopButton{
+color:black;
+#background-color: #ffffff;
+}
+.topButtons{
+#background-color: #ffffff;
+}
 .contact_info{
 font-family: Calibri,Arial,Sans Serif;
 line-height: 1.3em;
@@ -49,7 +56,6 @@ margin:20px 0 10px 0;
 #footer{
 float:right;
 }
-
 
 
 
