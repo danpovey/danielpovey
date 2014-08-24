@@ -1,0 +1,47 @@
+<html>
+
+<body>
+
+<h2>Dan Povey's homepage</h2>
+
+<h3> About me </h3>
+
+<p>
+  I am a speech recognition researcher.  I am a Research Scientist at the
+ <a href=http://www.clsp.jhu.edu/people/> Center for Language and Speech Processing </a> at Johns Hopkins University.
+</p>
+
+
+<h3> Site contents </h3>
+
+<p> The main content of my site is my <a href=publications.html> publications page </a>.
+
+<p> You may also be interested in the <a href=http://kaldi.sf.net> Kaldi website. </a>
+
+<p> <a href=kaldi-lectures.html> Here </a> is a page with links to some lectures I started giving
+  about Kaldi (warning: slightly out of date.) </p>
+
+<p> <a href=current-interests.html> This page </a> (again slightly out of date) describes some
+ research topics I am currently interested in.
+
+<p> <a href=jhu-closing.html> (some presentations from the JHU 2009 workshop) </a>
+
+
+<h3> Why does this page look so simple? </h3>
+<p> I used to have my homepage on Google Sites but it got removed by Google.   I believe
+  what happened is I posted a preprint of a paper I had published in an 
+   <a href=https://www.google.com/search?q=elsevier+is+evil> Elsevier </a> journal
+  (Computer Speech and Language) and some copyright goons hired by Elsevier submitted a
+  <a href=dmca.html>DMCA request</a> to Google, to get it removed.  Although posting preprints 
+  is <a href=http://www.elsevier.com/authors/preprints> allowed </a> 
+  by the journal, and although I 
+  immediately submitted a counter-notification, Google killed my site anyway.  Since this is the
+  second time my site has been killed, and I expect most US-based web hosting solutions would
+  do the same, I am now hosting my own site.  It looks the way it does because I don't
+  know HTML very well. </p>
+
+
+<p> I host this site myself, using apache2 on Debian linux, which I run as a micro instance in Amazon's EC2 cloud.  I use a domain
+ which my wife Nadira had previously registered for me via GoDaddy. </p>
+
+</body></html>
