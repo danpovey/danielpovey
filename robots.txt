@@ -3,3 +3,7 @@ User-agent: *
 Disallow: 
 Crawl-delay: 5
 Disallow: /cgi-bin/
+Disallow: /files/Lecture1.pdf
+Disallow: /files/Lecture2.pdf
+Disallow: /files/Lecture3.pdf
+Disallow: /files/Lecture4.pdf
